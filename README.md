@@ -5,8 +5,8 @@ SubDub (subscription-tracker-api) is a subscription management API built with Ex
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/adrianhajdin/subdub.git
-    cd subdub
+    git clone https://github.com/adrianhajdin/subdub.git](https://github.com/irfannugroho/subscription-tracker-api
+    cd subcription-tracker-api
     ```
 
 2. Install dependencies:
